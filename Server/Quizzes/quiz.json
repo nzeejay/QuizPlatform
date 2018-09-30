@@ -1,0 +1,19 @@
+{
+  "name": "quiz",
+  "questions": [
+    {
+      "question": "What is 1 + 0?",
+      "choices": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Copy this question",
+      "answer": "Copy this question"
+    }
+  ]
+}
